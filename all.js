@@ -22,6 +22,10 @@ function ready() {
         var button = addToCartButtons[i]
         button.addEventListener('click', addToCartClicked)
     }
+    if(document.getElementsByClassName('shop-item-button').clicked==true)
+    {
+        alert("button was clicked")
+    }
 
     document.getElementsByClassName('btn-purchase')[0].addEventListener('click', purchaseClicked)
 }
