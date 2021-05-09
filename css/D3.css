@@ -6,7 +6,7 @@ body {
 }
 .v64_3 {
   width: 100%;
-  height: 3010px;
+  height: 3410px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
@@ -258,7 +258,7 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 2751px;
+  top: 3151px;
   left: 0px;
   overflow: hidden;
 }
